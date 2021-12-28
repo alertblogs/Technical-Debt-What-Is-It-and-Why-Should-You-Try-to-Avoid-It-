@@ -1,40 +1,21 @@
-AlertOps Expert Guidance
+Technical Debt: What Is It, and Why Should You Try to Avoid It?
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Software development teams dread technical debt, and for good reason. Technical debt, aka design debt or code debt, refers to the cost of choosing a quick-fix solution that delivers short-term results versus a long-term solution that may require additional time and resources to implement. As such, technical debt ties up a software development team’s time and resources.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+Technical debt is an innovation roadblock, too. Like monetary debt, technical debt accumulates interest over time. Thus, if a software development team is bogged down with technical debt, this team may struggle to drive innovation – something that may cause this team to fall behind and miss deadlines.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Clearly, technical debt is problematic, and a software development team must do everything possible to eliminate this issue. With the right alert tracking system at its disposal, a software development team may be able to do just that. To better understand why this may be the case, let’s consider an example.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+By deploying an alert tracking system that boasts message rule and workflow engines, a software development team can monitor technical debt. The system also allows a software development team to configure its incident management efforts to its day-to-day activities. Therefore, a software development team can use this alert monitoring system to manage service levels, send reminders to incident owners at regular intervals and send reminders based on a service-level agreement (SLA) deadline. It can even trigger workflows such as change control processes that are needed to resolve a major incident.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Additionally, an alert monitoring system increases visibility and accountability across a software development team. It enables a software development team to evaluate contractors, adjust its staffing levels and budget accordingly. Furthermore, the system records every detail of an incident, ensuring a software development team can gather information about bugs and glitches to create an update and release it as planned.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
-
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
+Ready to put technical debt in the past? There is no need for a software development team to cheat to meet a deadline. Instead, deploy an alert monitoring system that leverages message rule and workflow engines, and your software development team can track and eliminate technical debt like never before. Read more in Greg’s article.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/budget-technical-debt-reduction/
 
 Read more:
 ====
